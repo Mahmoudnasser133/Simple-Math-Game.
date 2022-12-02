@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "simple_math_game", "simple_math_game\simple_math_game.cproj", "{18DD2831-3AA6-4E13-8F29-72D009E9E858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DD2831-3AA6-4E13-8F29-72D009E9E858}.Debug|AVR.ActiveCfg = Debug|AVR
+		{18DD2831-3AA6-4E13-8F29-72D009E9E858}.Debug|AVR.Build.0 = Debug|AVR
+		{18DD2831-3AA6-4E13-8F29-72D009E9E858}.Release|AVR.ActiveCfg = Release|AVR
+		{18DD2831-3AA6-4E13-8F29-72D009E9E858}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
